@@ -11,6 +11,6 @@ def sayHello(to="Stranger"):
     print(f"Hello there! {to}")
 
 def raiseToPower(n):
-    return pow(n,2)
+    return pow(n,2)     ## or x**y  or x * x (for square only)
 
 main()
