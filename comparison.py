@@ -25,4 +25,13 @@ def grade_generator(score):
 def isEven(n):
     return n%2==0       ## return True if n%2==0 else False (other way of writing)
 
+## Use of match keyword and case statements
+##    match name:
+##        case "A" | "B" | "C":
+##            print("abc")
+##        case "D":
+##            print("def")
+##        case _:
+##            print("what else!")
+
 main()
